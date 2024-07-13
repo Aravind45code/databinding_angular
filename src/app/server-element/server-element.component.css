@@ -1,0 +1,8 @@
+p {
+  color: blue;
+}
+label {
+  color: red;
+}
+/* When the selected encapsulation is None the style will be applied to all the components ,if not the style will be applied to only to the 
+particular component */
